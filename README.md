@@ -1,4 +1,4 @@
-# eslint-config-engenha-next
+# eslint-config-gustavo-next
 
 Configuração ESLint para projetos Next.js + TypeScript + React.
 
