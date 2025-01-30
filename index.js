@@ -116,7 +116,7 @@ module.exports = {
     "error",
     {
       "selector": "variable",
-      "format": ["strictCamelCase", "UPPER_CASE", "snake_case", "PascalCase"],
+      "format": ["camelCase", "UPPER_CASE", "snake_case", "PascalCase"],
       "leadingUnderscore": "allow"
     },
     {
